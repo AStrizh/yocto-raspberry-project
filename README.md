@@ -1,14 +1,6 @@
 # yocto-raspberry-project
 Creating a Raspberry Pi image for my Operating Systems course
 
-/  ___| |      (_)   | |                  | |  (_)     |  _  /  ___|
-\ `--.| |_ _ __ _ ___| |__   _____   _____| | ___ _   _| | | \ `--.
- `--. \ __| '__| |_  / '_ \ / _ \ \ / / __| |/ / | | | | | | |`--. \
-/\__/ / |_| |  | |/ /| | | |  __/\ V /\__ \   <| | |_| \ \_/ /\__/ /
-\____/ \__|_|  |_/___|_| |_|\___| \_/ |___/_|\_\_|\__, |\___/\____/
-                                                   __/ |
-                                                  |___/
-
 Due to the size and complexity of the yocto project I am only uploading the changes I have made after going through the Quick Build tutorial: https://docs.yoctoproject.org/brief-yoctoprojectqs/index.html
 
 OS Images:
